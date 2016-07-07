@@ -1,13 +1,17 @@
 # React simple demo.
 
-u can use `jsx --watch` or use `browser.js`.
+u can use `jsx --watch` or `npm install -g babel` or `browser.js`.
 
->react-tools
+*>react-tools
 
 `npm install -g react-tools`
 
 `jsx --watch src/ build/`
 
->browser.js
+*>npm install -g babel
+
+`babel src --out-dir build`
+
+*>browser.js
 
 `<script src="js/browser.min.js"></script>` or use cdn.
