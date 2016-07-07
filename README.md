@@ -1,8 +1,13 @@
-# ReactMsg
-react demo for msg.
+# React simple demo.
+***
+u can use `jsx --watch` or use `browser.js`.
+***
+>react-tools
 
-not use browser.js
+`npm install -g react-tools`
 
-npm install -g react-tools
+`jsx --watch src/ build/`
+***
+>browser.js`
 
-jsx --watch src/ build/
+`<script src="js/browser.min.js"></script>` or use cdn.
