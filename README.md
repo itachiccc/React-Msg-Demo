@@ -9,7 +9,7 @@ u can use `jsx --watch` or `npm install -g babel` or `browser.js`.
 `jsx --watch src/ build/`
 ***
 >npm install -g babel
-
+(just for jsx)
 `babel src --out-dir build`
 ***
 >browser.js
