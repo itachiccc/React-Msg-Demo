@@ -7,11 +7,11 @@ u can use `jsx --watch` or `npm install -g babel` or `browser.js`.
 `npm install -g react-tools`
 
 `jsx --watch src/ build/`
-
+***
 >npm install -g babel
 
 `babel src --out-dir build`
-
+***
 >browser.js
 
 `<script src="js/browser.min.js"></script>` or use cdn.
