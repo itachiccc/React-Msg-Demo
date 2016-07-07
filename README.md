@@ -8,6 +8,6 @@ u can use `jsx --watch` or use `browser.js`.
 
 `jsx --watch src/ build/`
 
->browser.js`
+>browser.js
 
 `<script src="js/browser.min.js"></script>` or use cdn.
